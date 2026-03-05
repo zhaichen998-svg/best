@@ -1,0 +1,5 @@
+# Default Configuration for Multimodal Drought Classification
+
+# Dataset folder paths
+train_dataset: 'path/to/train_dataset/'  # TODO: Set path
+val_dataset: 'path/to/val_dataset/'      # TODO: Set path
